@@ -1,0 +1,1 @@
+{"token": "token_here", "author": "AmitGamingKing", "version": "0.5", "botname": "Xyno", "nitro_sniper": "False", "giveaway_sniper": "False", "global_usage": "False", "prefix": "*", "case_insensitive": "False", "keycode_set": "False", "keycode": "None", "logging": "False", "owner": 1234567890, "modules": ["commands.Ping"]}

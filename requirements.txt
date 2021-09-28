@@ -1,0 +1,7 @@
+git+https://github.com/dolfies/discord.py-self.git@renamed
+discord.py
+colorama
+asyncio
+stdiomask
+requests
+aioconsole
