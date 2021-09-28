@@ -4,6 +4,7 @@ Discord             |  Selfbot
 
 ------------
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/377132426599727133) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/file/d/1KxOYhq3aAkMuj_xuqdcmp_466dsHaRi6/view?usp=sharing)
 
 # Xyno Discord Selfbot
 ###### Xyno is a simple but useful selfbot for Discord. It has currently limited useful features but it will be updated in future with more functions & commands. This selfbot is made with [discord.py-self](https://github.com/dolfies/discord.py-self), you can see their docs to expand this bot as you want.
