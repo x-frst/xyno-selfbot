@@ -5,10 +5,10 @@ Discord             |  Selfbot
 ------------
 
 
-#Xyno Discord Selfbot
+# Xyno Discord Selfbot
 ###### Xyno is a simple but useful selfbot for Discord. It has currently limited useful features but it will be updated in future with more functions & commands. This selfbot is made with [discord.py-self](https://github.com/dolfies/discord.py-self), you can see their docs to expand this bot as you want.
 
-#Example Images:
+# Example Images:
 - **Console Home**
 
 > ![Console Home](https://i.imgur.com/c5xvLwd.png "Console Home")
@@ -18,7 +18,7 @@ Discord             |  Selfbot
 
 > ![Selfbot Menu](https://i.imgur.com/niy6XRB.png "Selfbot Menu")
 
-#Key Features:
+# Key Features:
 
 - [x] **Working Nitro Sniper**
 - [x] **Working Giveaway Sniper**
@@ -31,7 +31,7 @@ Discord             |  Selfbot
 - [x] **Ready To Make New Commands**
 - [x] **And Many More...**
 
-#Installation:
+# Installation:
 ##### Windows users can alternatively download [Xyno Selfbot](https://drive.google.com/file/d/1KxOYhq3aAkMuj_xuqdcmp_466dsHaRi6/view?usp=sharing) executable program to hassle lessly run your selfbot. (NO DEPENDENCY NEEDED AT ALL!)
 
 #### Manual Installation
@@ -45,14 +45,14 @@ python main.py
 
 **After successfully running your selfbot, you will be asked for your account token. [Click here](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token) to know how to obtain user token. Alternatively, you can search on [YouTube](https://youtube.com) for video tutorial.**
 
-#Future Updates:
+# Future Updates:
 
 - [ ] **Adding more useful commands. (You can code yourself too)**
 - [ ] **Adding raider mode to raid server by mass pings.**
 - [ ] **Channel or Host DM logging.**
 - [ ] **Possibly more if suggested.**
 
-#⚠️WARNING
+# ⚠️WARNING
 
 | | |
 |-|-|
