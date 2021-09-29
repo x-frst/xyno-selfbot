@@ -23,7 +23,6 @@ class Giveawaysniper(commands.Cog):
                             logger.log_error("events.Giveawaysniper", "error", "An error occurred while entering in Giveaway "+str(e))
             if f"Congratulations <@{self.client.user.id}>" in message.content:
                 if message.author.id == 123067977615540225 or 294882584201003009:
-                    print("WON!")
                     logger.log_error("events.Giveawaysniper", "info", "You just won a Giveaway ("+str(message.jump_url)+")")
         except Exception as e:
             logger.log_error("events.Giveawaysniper", "error", str(e))
