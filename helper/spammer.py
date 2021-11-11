@@ -16,9 +16,9 @@ async def dm_advertise(client):
         print((Fore.BLUE + Style.BRIGHT) + "\nDM ADVERTISING TOOL")
         cid = int(await ainput('Enter Channel ID To Fetch Members From: '))
         channel = await client.fetch_channel(cid)
-        print("Fetched Channel: " + "#" + str(channel.name) + " From " + str(channel.guild.name) + ".")        
+        print("Fetched Channel: " + "#" + str(channel.name) + " From " + str(channel.guild.name) + ".")
         choice = str(await ainput('Leave Server After Operation (Yes/No)?: ')).lower()
-        msg = str(await ainput('Enter Message To Advertise: '))
+        msg = str(await ainput('Enter Message To Advertise: ')).replace('\\n', '\n')
         success = 0
         fail = 0
         i = 0
@@ -52,7 +52,7 @@ async def dm_spammer(client):
         print((Fore.BLUE + Style.BRIGHT) + "\nDM SPAMMING TOOL")
         uid = int(await ainput('Enter User ID To Send Messages: '))
         count = int(await ainput('Enter Number Of Messages To Be Sent: '))
-        msg = str(await ainput('Enter Message To Spam: '))
+        msg = str(await ainput('Enter Message To Spam: ')).replace('\\n', '\n')
         user = await client.fetch_user(uid)
         await user.create_dm()
         for i in range(count):
@@ -75,7 +75,7 @@ async def server_spammer(client):
         print((Fore.BLUE + Style.BRIGHT) + "\nSERVER SPAMMING TOOL")
         cid = int(await ainput('Enter Channel ID To Send Messages: '))
         count = int(await ainput('Enter Number Of Messages To Be Sent: '))
-        msg = str(await ainput('Enter Message To Spam: '))
+        msg = str(await ainput('Enter Message To Spam: ')).replace('\\n', '\n')
         channel = await client.fetch_channel(cid)
         for i in range(count):
             await channel.send(msg)
