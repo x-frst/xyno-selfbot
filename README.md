@@ -33,7 +33,7 @@ Discord             |  Selfbot
 - [x] **And Many More...**
 
 # Installation:
-##### Windows users can alternatively download [Xyno Selfbot](https://drive.google.com/file/d/1KxOYhq3aAkMuj_xuqdcmp_466dsHaRi6/view?usp=sharing) executable program to hassle lessly run your selfbot. (NO DEPENDENCY NEEDED AT ALL!)
+##### Windows users can alternatively download [Xyno Selfbot](https://drive.google.com/file/d/19fDAQXeFr_nhlCiwKERHciZc5qqIVhf-/view?usp=sharing) executable program to hassle lessly run your selfbot. (NO DEPENDENCY NEEDED AT ALL!)
 
 #### Manual Installation
 
